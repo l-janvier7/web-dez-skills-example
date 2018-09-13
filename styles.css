@@ -1,0 +1,101 @@
+/* Style Sheet for Web Development Skills Page */
+
+/* Page Styles */
+
+html{
+    background-image: url("images/green-backround1.png");
+}
+ 
+.div1{
+    border: 3px solid #E44D26;
+    border-radius: 25px;
+    box-shadow: 2px 2px rgb(204, 78, 47);
+    width: 600px;
+    margin: 20px auto;
+    padding: 40px 75px;
+    background-color:white;
+}
+.div2{
+    border: 3px solid rgb(1,112,186);
+    border-radius: 25px;
+    box-shadow: 2px 2px rgb(1,112,186);
+    width: 600px;
+    margin: 20px auto;
+    padding: 40px 75px;
+    background-color:white;
+}
+.div3{
+    border: 3px solid #F7DF1B;
+    border-radius: 25px;
+    box-shadow: 2px 2px #F7DF1B);
+    width: 600px;
+    margin: 20px auto;
+    padding: 50px 75px;
+    background-color:white;
+}
+/* Text styles */
+
+
+h1,h2 { 
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    margin:30px auto;
+    text: bold;
+    color:whitesmoke; 
+    text-align: center;
+    font-size: 45px; 
+    text-shadow: 3px black;
+}
+h2 {
+    font-variant: small-caps
+}
+p, ul{
+    color: black;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+}
+span {
+    font-family: papyrus; 
+}
+
+}
+
+/* Tutorial Notes */
+
+.tutorial{
+    font-size: 12px
+}
+
+/* Section Headers */
+
+.html{ 
+    color:#E44D26
+} 
+.css {
+    color: rgb(1,112,186)
+}
+.js {
+    color: #F7DF1B
+}
+
+
+/* Link Styles */
+
+a {
+    Color: navy;
+    text-decoration: none;
+}
+a:hover {
+    Text-decoration: underline;
+}
+
+/* Image Sytyle */
+img{
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
